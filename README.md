@@ -20,7 +20,3 @@ Visualizations: Interactive visualizations to represent the data and the analysi
 
 ## Contributing
 Contributions to the project are welcome! Please fork the repository, make your changes, and submit a pull request
-
-### Acknowledgements
-
-[geohacker](https://github.com/geohacker/india/blob/master/state/india_state.geojson) - Geojson data was taken from here
