@@ -1,6 +1,6 @@
 # Interrilato: Exploring Data Relationships
 
-<img src="https://github.com/avani1998/IndiaChoropleth/blob/master/images/crimerates.PNG" alt="drawing" width="210"/> <img src="https://github.com/avani1998/IndiaChoropleth/blob/master/images/povertyrates.PNG" alt="drawing" width="210"/> <img src="https://github.com/avani1998/IndiaChoropleth/blob/master/images/literacyrates.PNG" alt="drawing" width="210"/> <img src="https://github.com/avani1998/IndiaChoropleth/blob/master/images/unemploymentrate.PNG" alt="drawing" width="210"/>
+<img src="https://github.com/avani1998/IndiaChoropleth/blob/master/images/crimerates.PNG" alt="drawing" width="200"/> <img src="https://github.com/avani1998/IndiaChoropleth/blob/master/images/povertyrates.PNG" alt="drawing" width="200"/> <img src="https://github.com/avani1998/IndiaChoropleth/blob/master/images/literacyrates.PNG" alt="drawing" width="200"/> <img src="https://github.com/avani1998/IndiaChoropleth/blob/master/images/unemploymentrate.PNG" alt="drawing" width="200"/>
 
 ## Project Overview
 This project involves the analysis of various socioeconomic factors across different states and union territories of India. The analysis focuses on relationships between literacy rates, poverty rates, unemployment rates, and crime contributions in these regions. The purpose is to uncover patterns and insights that could aid in understanding the socioeconomic dynamics at play. 
