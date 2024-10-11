@@ -20,3 +20,5 @@ Visualizations: Interactive visualizations to represent the data and the analysi
 
 ## Contributing
 Contributions to the project are welcome! Please fork the repository, make your changes, and submit a pull request
+
+[Interactive Maps](https://colab.research.google.com/drive/18N8aJDj-y63F6DRwkXKWQL4n5eB7LlKf?authuser=1)
