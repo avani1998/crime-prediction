@@ -1,10 +1,7 @@
 # Crime Prediction and Analysis
 
 <!---<img src="https://github.com/avani1998/IndiaChoropleth/blob/master/images/crimerates.PNG" alt="drawing" width="200"/> -->
-<img src="/images/crimerates.PNG" alt="drawing" width="200"/>
-<img src="/images/literacyrates.PNG" alt="drawing" width="200"/>
-<img src="/images/povertyrates.PNG" alt="drawing" width="200"/>
-<img src="/images/unemploymentrate.PNG" alt="drawing" width="200"/>
+<img src="/images/crimerates.PNG" alt="drawing" width="200"/> <img src="/images/literacyrates.PNG" alt="drawing" width="200"/> <img src="/images/povertyrates.PNG" alt="drawing" width="200"/> <img src="/images/unemploymentrate.PNG" alt="drawing" width="200"/>
 <!--- <img src="https://github.com/avani1998/IndiaChoropleth/blob/master/images/povertyrates.PNG" alt="drawing" width="200"/> <img src="https://github.com/avani1998/IndiaChoropleth/blob/master/images/literacyrates.PNG" alt="drawing" width="200"/> <img src="https://github.com/avani1998/IndiaChoropleth/blob/master/images/unemploymentrate.PNG" alt="drawing" width="200"/>-->
 
 ## Project Overview
